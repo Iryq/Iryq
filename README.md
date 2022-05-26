@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">A Developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/cylelarinjr" target="blank"><img src="https://img.shields.io/twitter/follow/cylelarinjr?logo=twitter&style=for-the-badge" alt="cylelarinjr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Iryq_" target="blank"><img src="https://img.shields.io/twitter/follow/Iryq_?logo=twitter&style=for-the-badge" alt="Iryq_" /></a> </p>
 
 - 🔭 I’m working on **Application Form**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cylelarinjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cylelarinjr" height="30" width="40" /></a>
+<a href="https://twitter.com/Iryq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Iryq_" height="30" width="40" /></a>
 <a href="https://instagram.com/made.xl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="made.xl" height="30" width="40" /></a>
 </p>
 
