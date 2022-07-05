@@ -7,8 +7,12 @@
 </div>
 
 
-<p align="left"> <a href="https://twitter.com/cylelarinjr" target="blank"><img src="https://img.shields.io/twitter/follow/cylelarinjr?logo=twitter&style=for-the-badge" alt="cylelarinjr" /></a> </p>
+<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
+<p align="center">
 <a href="https://discord.com/users/952200956802658324" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/Iryq" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/banexdd/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://www.instagram.com/made.xl/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 - 🔭 I’m working on **Application Form**
