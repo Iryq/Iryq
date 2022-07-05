@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Develobır)](https://discord.com/users/952200956802658324)
+[![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Developer at Myself)](https://discord.com/users/952200956802658324)
 
 </div>
 
