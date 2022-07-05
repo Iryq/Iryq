@@ -1,11 +1,13 @@
-<h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Arda 👋</h2>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<div align="center">
+### Spotify da Dinliyorum 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&redirect=true)
+
+### Discord Profilim
 
 [![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Developer at Myself)](https://discord.com/users/952200956802658324)
-
-</div>
-
+---
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
