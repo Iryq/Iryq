@@ -6,7 +6,8 @@
 
 ### Discord Profilim
 
-[![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Developer at Myself)](https://discord.com/users/952200956802658324)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/952200956802658324)
+
 ---
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
