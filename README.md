@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A Developer from Turkey</h3>
+<h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Arda 👋</h2>
 
-<p align="left"> <a href="https://twitter.com/Iryq_" target="blank"><img src="https://img.shields.io/twitter/follow/Iryq_?logo=twitter&style=for-the-badge" alt="Iryq_" /></a> </p>
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/952200956802658324)](https://discord.com/users/952200956802658324)
+
+</div>
+
+
+<p align="left"> <a href="https://twitter.com/cylelarinjr" target="blank"><img src="https://img.shields.io/twitter/follow/cylelarinjr?logo=twitter&style=for-the-badge" alt="cylelarinjr" /></a> </p>
 
 - 🔭 I’m working on **Application Form**
 
