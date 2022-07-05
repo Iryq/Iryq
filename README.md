@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify da Dinliyorum 🎧
+### I am listening at Spotify🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&redirect=true)
 
-### Discord Profilim
+### My Discord Profile
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952200956802658324?theme=black&bg=1c1c1c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/952200956802658324)
 
