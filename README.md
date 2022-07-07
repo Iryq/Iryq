@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **PHP and HTML**
 
-- 📫 How to reach me **baris@selim-kurt.com.tr**
+- 📫 How to reach me **contact@ardaunen.com.tr**
 
 
 <h3 align="left">Languages and Tools:</h3>
